@@ -6,8 +6,9 @@ This is a public repository containing PDF copies of slides from our public pres
 
 | Talk Title  | Conference | Recorded Video | Slides |
 | ------------- | ------------- | ------------- | ------------- |
+| Hacking your way in with URLScan | Recon Village @ DEF CON 30 | N/A | [Slides](/ReconVillage-Defcon30.pdf) |
 | Vulnerabilities and Misconfigurations in GitHub Actions - Rojan Rijal  | fwd:cloudsec  | [https://www.youtube.com/watch?v=pTKS99Nfaxw](https://www.youtube.com/watch?v=pTKS99Nfaxw) | [Slides](/fwdcloudsec-2023.pdf) |
-| Identifying and securing vulnerabilities in Firebase configurations | Cloud Village @ Defcon 31 | N/A | [Slides](/CloudVillage-2023-Talk.pdf) |
+| Identifying and securing vulnerabilities in Firebase configurations | Cloud Village @ DEF CON 31 | N/A | [Slides](/CloudVillage-2023-Talk.pdf) |
 
 # LICENSE
 Copyright 2022-present Match Group, LLC
