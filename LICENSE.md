@@ -1,14 +1,3 @@
-# About
-
-This is a public repository containing PDF copies of slides from our public presentations. 
-
-# Table of Contents
-
-| Talk Title  | Conference | Recorded Video | Slides |
-| ------------- | ------------- | ------------- | ------------- |
-| Vulnerabilities and Misconfigurations in GitHub Actions - Rojan Rijal  | fwd:cloudsec  | [https://www.youtube.com/watch?v=pTKS99Nfaxw](https://www.youtube.com/watch?v=pTKS99Nfaxw) | [Slides](/fwdcloudsec-2023.pdf) |
-
-# LICENSE
 Copyright 2022-present Match Group, LLC
 
 The copyright holder grants you permission to and use  or redistribute this software in source and binary forms, with or without modification, conditioned on your acceptance of, and adherence to, the following conditions:
